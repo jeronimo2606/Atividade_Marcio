@@ -1,0 +1,42 @@
+.Conteiner {
+  width: 70%;         
+  margin: 0 auto;    
+  padding: 20px;      
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  background-color: white;
+}
+
+.Primeira{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: larger;
+}
+
+body{
+    background-color: gray;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.Conteiner2 {
+  width: 70%;         
+  margin: 0 auto;    
+  padding: 20px;      
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  background-color: white;
+}
+
+.Segunda{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: larger;
+}
+
+strong{
+    font-size: larger;
+}
